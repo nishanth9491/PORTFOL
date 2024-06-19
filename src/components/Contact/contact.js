@@ -95,7 +95,15 @@ const Contact = () => {
               {" "}
               <img src={linkedin} alt="" className="clientImg" />
             </a>
-            <img src={Twitter} alt="" className="clientImg" />
+                <a
+              href="https://x.com/vachasekkam"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {" "}
+                            <img src={Twitter} alt="" className="clientImg" />
+
+            </a>
           </div>
         </form>
       </div>
