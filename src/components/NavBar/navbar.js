@@ -5,7 +5,7 @@ import contactImg from "../../assests/Images/resume1.png";
 import menu from "../../assests/Images/menu.png";
 // import btnImge from '../../assests/Images/hireme.png';
 import { Link } from "react-scroll";
-import pdfFile from "../../assests/Images/NISHANTH_RESUME.pdf";
+import pdfFile from "../../assests/Images/NISHANTH_RESUME_8_JULY.docx.pdf";
 
 function Navbar() {
   const [showMenu, setShowMenu] = useState(false);
