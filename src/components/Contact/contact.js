@@ -79,7 +79,7 @@ const Contact = () => {
 
           <div className="links">
             <a
-              href="https://github.com/nishanth9491"
+              href="https://github.com/heisenlord"
               target="_blank"
               rel="noreferrer"
             >
